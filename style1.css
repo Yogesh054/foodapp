@@ -1,0 +1,327 @@
+.Dishdelete {
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    position: relative;
+    border-radius: 50px 66px 0px;
+    left: 50px;
+    margin-left: 411px;
+    padding-top: 12px;
+    font-size: 20px;
+    padding-bottom: 83px;
+    padding-left: 123px;
+    width: 500px;
+    height: auto;
+}
+
+.updatedish {
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    position: relative;
+    border-radius: 50px 66px 0px;
+    left: 50px;
+    margin-left: 411px;
+    padding-top: 12px;
+    font-size: 20px;
+    padding-bottom: 128px;
+    padding-left: 123px;
+    width: 500px;
+    height: auto;
+}
+
+.login_button {
+    position: relative;
+    top: 74px;
+    left: 284px;
+    border-radius: 10px;
+}
+
+
+.displaydish,
+.displaydishname {
+    width: 193px;
+    height: 35px;
+    font-size: larger;
+    text-align: center;
+    border-radius: 13px;
+    margin-top: 30px;
+    margin-right: 24px;
+}
+
+.deletebutton {
+    position: relative;
+    left: 147px;
+    top: 44px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+body {
+    font-family: Century Gothic;
+    background-color: #293637e0;
+
+}
+
+.head {
+    text-decoration: none;
+    position: relative;
+    color: black;
+    top: 50px;
+    left: -307px;
+}
+
+
+
+.heading {
+    text-align: center;
+    font-family: Century Gothic;
+    position: relative;
+    top: 43px;
+}
+
+.authlogin {
+    height: 261px;
+    font-family: Century Gothic;
+    width: 600px;
+    position: relative;
+    padding-top: 34px;
+    top: 128px;
+    left: 435px;
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    border-radius: 26px 70px 0px;
+}
+
+p {
+    font-size: larger;
+    position: relative;
+    top: 106px;
+    left: 53px;
+}
+
+.input {
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    top: 62px;
+    left: 266px;
+}
+
+
+
+.form {
+    position: relative;
+    top: 20px;
+    left: 155px;
+    font-size: x-large;
+}
+
+
+.heading {
+    text-align: center;
+    font-family: Century Gothic;
+    position: relative;
+    top: 107px;
+    left: -17px;
+}
+
+.login {
+    height: 300px;
+    font-family: Century Gothic;
+    width: 600px;
+    position: relative;
+    top: 128px;
+    left: 435px;
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    border-radius: 26px 70px 0px;
+}
+
+p {
+    font-size: larger;
+    position: relative;
+    top: 48px;
+    left: 53px;
+}
+
+.input {
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    top: 7px;
+    left: 333px;
+}
+
+
+
+a {
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 250px;
+    color: black;
+    font-weight: bold;
+}
+#errormsg
+{
+    position: relative;
+text-align: center;
+
+}
+
+.register {
+    
+    
+    position: relative;
+    top: 39px;
+    left: 435px;
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    border-radius: 26px 70px 0px;
+}
+
+p {
+    font-size: larger;
+    position: relative;
+    top: 48px;
+    left: 53px;
+}
+
+.input {
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    top: 7px;
+    left: 333px;
+}
+
+
+
+.heading {
+    text-align: center;
+    font-family: Century Gothic;
+    position: relative;
+    top: 43px;
+}
+
+.login {
+    height: 300px;
+    font-family: Century Gothic;
+    width: 600px;
+    position: relative;
+    top: 128px;
+    left: 435px;
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    border-radius: 26px 70px 0px;
+}
+
+p {
+    font-size: larger;
+    position: relative;
+    top: 106px;
+    left: 53px;
+}
+
+.input {
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    top: 62px;
+    left: 266px;
+}
+
+.button {
+    position: relative;
+    top: 38px;
+    font-size: larger;
+    left: 416px;
+    border-radius: 10px;
+}
+.deletesubmit
+{
+    border-radius: 10px;
+    font-size: initial;
+}
+
+.form {
+    position: relative;
+    top: 20px;
+    left: 155px;
+    font-size: x-large;
+}
+
+.add-hotel {
+    height: 300px;
+    width: 600px;
+    position: relative;
+    top: 128px;
+    left: 435px;
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    border-radius: 28px 138px 0px;
+}
+
+p {
+    font-size: larger;
+    position: relative;
+    top: 48px;
+    left: 53px;
+}
+
+
+.input {
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    top: 7px;
+    left: 330px;
+}
+
+.authbutton {
+    position: relative;
+    top: 58px;
+    left: 162px;
+    border-radius: 10px;
+}
+
+.deletesubmit {
+    border-radius: 32px;
+    font-size: 15px;
+}
+
+.updatesearch {
+    border-radius: 32px;
+    font-size: 15px;
+}
+
+.updatedishcost {
+    position: relative;
+    top: -21px;
+    left: 195px;
+}
+
+
+
+.indexlogin {
+    height: 300px;
+    font-family: Century Gothic;
+    width: 600px;
+    position: relative;
+    top: 128px;
+    left: 435px;
+    background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+    border-radius: 26px 70px 0px;
+}
+
+.indexbutton {
+    position: relative;
+    left: 121px;
+    border-radius: 10px;
+}
+
+
+.regsubmit
+{
+    position: relative;
+    top: 40px;
+    left: 381px;
+    border-radius: 10px;
+}

@@ -1,0 +1,124 @@
+.updatehead {
+    text-align: center;
+    color: black;
+    position: relative;
+    top: 108px;
+    left: -293px;
+}
+.updatesubmit {
+    position: relative;
+    left: -4px;
+    top: 116px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#errormsg
+    {
+        position: relative;
+        text-align: center;
+        top:100px;
+    }
+    .button {
+        position: relative;
+        top: 38px;
+        font-size: larger;
+        left: 416px;
+        border-radius: 10px;
+    }
+    .heading {
+    text-decoration: none;
+    position: relative;
+    color: black;
+    top: 37px;
+    left: -233px;
+    }
+    .admin {
+        height: 516px;
+        width: 600px;
+        position: relative;
+        top: 100px;
+        left: 435px;
+        background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+        border-radius: 28px 138px 0px;
+    }
+    .userauth_p {
+    font-size: larger;
+    position: relative;
+    top: 48px;
+    left: 53px;
+}
+
+.registerpara {
+        font-size: larger;
+        position: relative;
+        top: 55px;
+        left: 35px;
+    }
+
+    .input {
+        border-radius: 5px;
+        text-align: center;
+        font-size: large;
+        position: relative;
+        top: 7px;
+        left: 326px;
+    }
+
+    .adminbutton1 {
+
+        width: 217px;
+        height: 30px;
+
+        margin: 20px;
+        margin-left: 186px
+    }
+
+    .adminbutton2 {
+
+        width: 217px;
+        height: 30px;
+        background-color: black;
+        color: whitesmoke;
+        margin: 20px;
+        margin-left: 186px
+    }
+    body {
+        font-family: Century Gothic;
+        background-color: #293637e0;
+
+    }
+    .error {
+        height: 300px;
+        font-family: Century Gothic;
+        width: 600px;
+        position: relative;
+        top: 128px;
+        left: 435px;
+        background: linear-gradient(to bottom, rgb(61 211 222), rgb(235 181 243));
+        border-radius: 26px 70px 0px;
+    }
+    .errorheading
+    {
+        position: relative;
+        text-align: center;
+        top: 94px;
+    }
+    .errorlink
+    {
+        position: relative;
+        text-align: center;
+        top: 113px;
+        text-decoration: none;
+        color:black;
+    }
+    #registererrormsg
+    {
+        position: relative;
+    text-align: center;
+   
+    }
+    .register
+    {
+        height:280px;
+        width: 600px;
+    }
